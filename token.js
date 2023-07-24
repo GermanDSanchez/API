@@ -1,0 +1,1 @@
+export const urlToken = 'https://api.themoviedb.org/3/movie/popular?api_key=e3ae20ad68ddb781c61e238b5a11eb5d&language=es-AR';
